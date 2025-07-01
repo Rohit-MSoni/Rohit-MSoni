@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/rohit-soni-6b0b1825b/" target="_blank"> Rohit Soni </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Frontend+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
