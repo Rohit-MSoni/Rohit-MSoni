@@ -34,18 +34,7 @@
 
 </div>
 
-<h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-</div>
-<br>
 
- <div>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shsrt&show_icons=true&locale=en&layout=compact" alt="shsrt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shsrt&show_icons=true&locale=en" alt="shsrt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shsrt&" alt="shsrt" /></p>
+ 
 
  </div>
